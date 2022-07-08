@@ -55,6 +55,8 @@ header {
 
 .personal-logo {
     border-radius: 50%;
+    width: 130px;
+    height: 130px;
 }
 
 .header-title {
@@ -81,6 +83,11 @@ header {
 
 .header-nav li {
     display: flex;
+}
+
+.header-nav img {
+    width: 20px;
+    height: 20px;
 }
 
 main {
@@ -115,4 +122,14 @@ footer {
     align-items: center;
     margin: auto;
     width: 595px;
+}
+
+.footer-github-logo {
+    width: 40px;
+    height: 40px;
+}
+
+.footer-rsschool-logo {
+    width: 80px;
+    height: 60px;
 }
