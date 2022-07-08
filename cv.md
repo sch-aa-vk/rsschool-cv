@@ -16,15 +16,15 @@ I am a high school senior from Almaty. Web development is an interesting activit
 
 ### Code example:
 ```
-$ function noSpace(x){;
-$   return x.replace(/\s/g,");;
-$ };
+ function noSpace(x){
+   return x.replace(/\s/g,");
+ }
 ```
 
 ### Projects:
-[https://sch-aa-vk.github.io/rsschool-cv/](https://sch-aa-vk.github.io/rsschool-cv/)
-[https://rolling-scopes-school.github.io/sch-aa-vk-JSFEPRESCHOOL/portfolio/](https://rolling-scopes-school.github.io/sch-aa-vk-JSFEPRESCHOOL/portfolio/)
-[https://rolling-scopes-school.github.io/sch-aa-vk-JSFEPRESCHOOL/custom-video/](https://rolling-scopes-school.github.io/sch-aa-vk-JSFEPRESCHOOL/custom-video/)
+* [https://sch-aa-vk.github.io/rsschool-cv/](https://sch-aa-vk.github.io/rsschool-cv/)
+* [https://rolling-scopes-school.github.io/sch-aa-vk-JSFEPRESCHOOL/portfolio/](https://rolling-scopes-school.github.io/sch-aa-vk-JSFEPRESCHOOL/portfolio/)
+* [https://rolling-scopes-school.github.io/sch-aa-vk-JSFEPRESCHOOL/custom-video/](https://rolling-scopes-school.github.io/sch-aa-vk-JSFEPRESCHOOL/custom-video/)
 
 
 ### Education:
