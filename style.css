@@ -2,18 +2,22 @@
 
 h1 {
     margin: 0px;
+    padding: 0px;
 }
 
 h2 {
     margin: 0px;
+    padding: 0px;
 }
 
 ul {
     margin: 0px;
+    padding: 0px;
 }
 
 body {
     margin: 0px;
+    padding: 0px;
     background: url(/assets/images/background.png) no-repeat center;
     background-size: 100%;
 }
@@ -26,6 +30,8 @@ wrapper {
 
 header {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     margin: auto;
     margin-top: 26px;
     width: 560px;
@@ -37,6 +43,7 @@ header {
 }
 
 .header-title {
+    width: 211px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -49,4 +56,15 @@ header {
     font-size: 16px;
     color: #5e5e5e;
     opacity: 0.7;
+}
+
+.header-nav ul {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: flex-end;
+}
+
+.header-nav li {
+    display: flex;
+    color: #4e4e4e;
 }
