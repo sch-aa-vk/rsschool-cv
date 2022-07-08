@@ -41,8 +41,6 @@ section {
 body {
     margin: 0px;
     padding: 0px;
-    background: url(/assets/images/background.png) no-repeat center;
-    background-size: 100%;
 }
 
 header {
@@ -66,7 +64,7 @@ header {
 
 .header-title h1 {
     font-size: 36px;
-    color: rgb(245, 122, 14);
+    color: rgba(245, 122, 14, 0.9);
 }
 
 .header-title h2 {
@@ -92,7 +90,7 @@ main {
     margin: auto;
     margin-top: 25px;
     width: 595px;
-    border-radius: 25px;
+    border-radius: 20px;
     background-color: rgba(245, 122, 14, 0.15);
 }
 
@@ -109,4 +107,12 @@ main {
 
 .main-languages {
     margin-bottom: 25px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    width: 595px;
 }
