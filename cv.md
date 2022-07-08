@@ -1,5 +1,4 @@
-# $ \ color {blue} {rsshool-cv} $
-
+# [rsschool-cv](https://sch-aa-vk.github.io/rsschool-cv/)
 ## Senchenko Amina
 ### Contact information:
 * GitHub: [sch-aa-vk](https://github.com/sch-aa-vk)
